@@ -5,7 +5,7 @@
 # Chrome Driver:
 Download Chrome Driver https://chromedriver.chromium.org/downloads by checking the version of the chrome using chrome://settings/help by pasting this URL in your Chrome.
 
-After Download extract in Local Disc C if possible or any other Local Discs.
+After Download extract in Local Disk C if possible or any other Local Disks.
 
 # Twilio:
 Before running this code go to www.twilio.com and create a account with your PHONE NUMBER and get a TRIAL NUMBER for your account by your choice.
