@@ -7,7 +7,7 @@ from twilio.rest import Client
 import pickle
 
 # Choose the Product and copy the Product URL and paste it in site = "Product URL" given below
-site = "https://www.amazon.in/OnePlus-Mirror-Black-128GB-Storage/dp/B085J1CPD1/ref=lp_22429860031_1_2?s=electronics&ie=UTF8&qid=1606104936&sr=1-2"
+site = "https://www.amazon.in/OnePlus-Mirror-Black-128GB-Storage/dp/B085J1CPD1/ref=sr_1_1?dchild=1&keywords=OnePlus+8T+5G+%28Lunar+Silver+12GB+RAM%2C+256GB+Storage%29&qid=1606552466&sr=8-1"
 
 # Download Chrome Driver by checking the version of the chrome you are using 
 # After Download extract in Local Disc C if possible or any other Local Disc.
