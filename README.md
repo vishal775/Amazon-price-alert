@@ -3,7 +3,7 @@
 **Version 1.0.0**
 
 # Chrome Driver:
-Download Chrome Driver https://chromedriver.chromium.org/downloads by checking the version of the chrome you are using chrome://settings/help.
+Download Chrome Driver https://chromedriver.chromium.org/downloads by checking the version of the chrome using chrome://settings/help by pasting this URL in your Chrome.
 
 After Download extract in Local Disc C if possible or any other Local Disc.
 
