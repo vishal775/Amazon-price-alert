@@ -14,5 +14,5 @@ Get the YOUR_ACCOUNT_SID and YOUR_AUTH_TOKEN by logging in your Twilio Account.
 
 Get your Trail Number which you can see in the Dashboard.
 
-## License & copyrights
+## License & Copyrights
 © Vishal J M, Sri Ramakrishna Engineering College
